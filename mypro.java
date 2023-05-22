@@ -9,7 +9,7 @@ public class mypro {
 	@Test
 	public static void test1() {
 
-        assertEquals(3, sc.Addition(1,2));
+        assertEquals(4, sc.Addition(1,2));
         System.out.println(sc.Addition(1,2));
     }
 	
